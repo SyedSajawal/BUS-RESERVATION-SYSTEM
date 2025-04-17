@@ -39,8 +39,8 @@ The **Bus Reservation System** is a database-driven solution for intercity bus s
 ---
 
 ## **📞 Contact**  
-**Developer:** Syed Muhammad Sajawal Hussain  
-**Phone:** 0328-0841432  
+**Developers:** Syed Muhammad Sajawal Hussain / Usama Ashraf 
+**Phone:** 0328-0841432 / 0319-9272955
 
 ---
 
