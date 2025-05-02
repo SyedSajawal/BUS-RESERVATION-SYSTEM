@@ -1,4 +1,4 @@
-Here's the complete `README.md` content in a single code block for easy copying:
+
 
 
 # Bus Management System  
