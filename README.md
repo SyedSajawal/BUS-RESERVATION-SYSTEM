@@ -3,7 +3,7 @@ Here's the complete `README.md` content in a single code block for easy copying:
 
 # Bus Management System  
 
-![Project Banner](https://via.placeholder.com/1200x400?text=Bus+Management+System)  
+![Project Banner]([https://via.placeholder.com/1200x400?text=Bus+Management+System](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fbus-booking&psig=AOvVaw3O_tik_E_vZ7rDHnT3myA2&ust=1746281874985000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCLCPnIr9hI0DFQAAAAAdAAAAABAE))  
 
 A comprehensive system for managing intercity bus operations with real-time tracking, passenger bookings, and maintenance management.  
 
@@ -52,7 +52,6 @@ A comprehensive system for managing intercity bus operations with real-time trac
 - **Database**: MySQL (Relational Database Management System)  
 
 ## 🚀 System Features 
-|-----------------------------------------------------------------------------------------------------|
 | Feature Area          | Description                                                                 |
 |-----------------------|-----------------------------------------------------------------------------|
 | Passenger Management  | Online bookings, ticket generation, and passenger information storage       |
@@ -60,7 +59,7 @@ A comprehensive system for managing intercity bus operations with real-time trac
 | Maintenance System    | Detailed logs for mileage, engine checks, and incident reports              |
 | Driver Management     | Shift scheduling, route assignments, and performance monitoring             |
 | Feedback Analysis     | Passenger ratings for cleanliness, driver behavior, and punctuality         |
-|-----------------------------------------------------------------------------------------------------|
+
 ## 📦 Installation Guide  
 ```bash
 # Clone the repository
