@@ -42,7 +42,7 @@ A digital solution for modernizing public transport operations with automated sc
 | 2 | Usama Ashraf          | 0319-9272955 | <div>[![YT](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](#) [![GH](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) [![IN](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)</div> |
 
 ## 📥 Installation  
-```bash
+
 git clone https://github.com/SyedSajawal/bus-management-system.git
 cd bus-management-system
 npm install
