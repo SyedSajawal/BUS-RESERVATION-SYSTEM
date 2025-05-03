@@ -1,96 +1,67 @@
+# 🏫 Government Graduate College for Boys Civil Lines Sheikhupura  
+**Department of Information Technology**  
+📚 BS-IT, Semester 4 (Evening Program)  
+👥 Group-2 Project  
 
 # 🚌 Bus Management System  
+A digital solution for modernizing public transport operations with automated scheduling, real-time tracking, and maintenance management.  
 
-![Project Banner](https://via.placeholder.com/1200x400/2C3E50/FFFFFF?text=Bus+Management+System)  
+## 💻 Technology Stack  
+**Core Database:**  
+🔷 MySQL - Provides reliable data storage for:  
+- Passenger records (20+ fields per profile)  
+- Booking transactions (ACID compliant)  
+- Vehicle maintenance history  
 
-A comprehensive system for managing intercity bus operations with real-time tracking, passenger bookings, and maintenance management.  
+## ⭐ Key Features  
+**1. Digital Ticketing System**  
+- Online seat selection  
+- Mobile ticket generation  
+- Payment integration  
 
-## 👥 Team Members (Group-2 Evening)
+**2. Real-Time Fleet Monitoring**  
+- Live GPS tracking (5s refresh rate)  
+- Route optimization algorithms  
+- Delay notifications  
 
-| Name                          | Roll No  | Contact      |
-|-------------------------------|----------|--------------|
-| Syed Muhammad Sajawal Hussain | 110766   | 0328-0841432 |
-| Usama Ashraf                  | 110769   | 0319-9272955 |
+**3. Maintenance Module**  
+- Automated service reminders  
+- Repair cost analytics  
+- Spare parts inventory  
 
-## 👨‍💻 Developers
+**4. Driver Portal**  
+- Shift scheduling  
+- Performance dashboard  
+- Document management  
 
-### Syed Muhammad Sajawal Hussain
-| Platform  | Link |
-|-----------|------|
-| YouTube   | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@AL-SAJAWALDIGITALSOFFICIAL) |
-| GitHub    | [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/SyedSajawal) |
-| LinkedIn  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-muhammad-sajawal-hussain-smsh1432) |
+## 👨‍💻 Development Team  
 
-### Usama Ashraf
-| Platform  | Link |
-|-----------|------|
-| YouTube   | [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](#) |
-| GitHub    | [![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)](#) |
-| LinkedIn  | [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](#) |
+| # | Member Name            | Contact     | Social Links |
+|---|-----------------------|-------------|--------------|
+| 1 | Syed Muhammad Sajawal Hussain | 0328-0841432 | <div>[![YT](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@AL-SAJAWALDIGITALSOFFICIAL) [![GH](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/SyedSajawal) [![IN](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/syed-muhammad-sajawal-hussain-smsh1432)</div> |
+| 2 | Usama Ashraf          | 0319-9272955 | <div>[![YT](https://img.shields.io/badge/YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](#) [![GH](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](#) [![IN](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](#)</div> |
 
-## 📋 Project Overview  
-**Key Features:**  
-- � Online seat booking system  
-- 📍 Real-time GPS bus tracking  
-- 🔧 Comprehensive maintenance logging  
-- 👨‍✈️ Driver shift management  
-- 💬 Passenger feedback system  
-
-## 🛠 Technology Stack  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)  
-*(Relational Database Management System)*  
-
-## 🚀 System Features 
-
-| Feature Area          | Description                                                                 |
-|-----------------------|-----------------------------------------------------------------------------|
-| 🧑 Passenger Management  | Online bookings, ticket generation, and passenger information storage       |
-| 🚍 Fleet Tracking        | Real-time GPS updates with estimated arrival times                          |
-| 🛠️ Maintenance System    | Detailed logs for mileage, engine checks, and incident reports              |
-| 👨‍💼 Driver Management     | Shift scheduling, route assignments, and performance monitoring             |
-| 💬 Feedback Analysis     | Passenger ratings for cleanliness, driver behavior, and punctuality         |
-
-## 📥 Installation Guide  
+## 📥 Installation  
 ```bash
-# Clone the repository
 git clone https://github.com/SyedSajawal/bus-management-system.git
-
-# Navigate to project directory
 cd bus-management-system
-
-# Install required dependencies
 npm install
-
-# Configure environment
-cp .env.example .env
-
-# Launch application
 npm start
 
-## 🏁 Getting Started  
-1. Access the web portal at `http://localhost:3000`
-2. Create an administrator account
-3. Configure bus routes and schedules
-4. Set up driver profiles
-5. Begin accepting passenger bookings
 
-## 🤝 Contribution Guidelines  
-We welcome contributions! Please:  
+## 🤝 How to Contribute  
 1. Fork the repository  
-2. Create a feature branch (`git checkout -b feature/your-feature`)  
-3. Commit your changes (`git commit -m 'Add some feature'`)  
-4. Push to the branch (`git push origin feature/your-feature`)  
-5. Open a pull request  
+2. Create your feature branch (`git checkout -b feature/AmazingFeature`)  
+3. Commit your changes (`git commit -m 'Add some AmazingFeature'`)  
+4. Push to the branch (`git push origin feature/AmazingFeature`)  
+5. Open a Pull Request  
 
 ## 📜 License  
-[![GPLv3 License](https://img.shields.io/badge/License-GPL%20v3-yellow.svg?style=for-the-badge)](https://opensource.org/licenses/)
-
-This program is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation.
+Distributed under the GNU GPLv3 License. See `LICENSE` for more information.  
 
 ## 🙏 Acknowledgments  
-- Our faculty advisors at Government Graduate College for Boys Civil Lines Sheikhupura  
-- The open-source community for valuable resources  
-- All contributors and testers  
+- Our respected faculty members at GGC Sheikhupura  
+- Open-source community contributors  
+- Beta testers and user feedback providers  
 
-
-**Developed with ❤️ by Group-2 (Evening) - Government Graduate College for Boys Civil Lines Sheikhupura**
+**© 2024 Group-2 (BS-IT Evening) | Government Graduate College for Boys Civil Lines Sheikhupura**
