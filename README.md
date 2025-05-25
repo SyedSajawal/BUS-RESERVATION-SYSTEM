@@ -43,7 +43,7 @@ A digital solution for modernizing public transport operations with automated sc
 
 ## 📥 Installation  
 
-git clone https://github.com/SyedSajawal/bus-management-system.git
+git clone [https://github.com/SyedSajawal/bus-management-system.git](https://github.com/SyedSajawal/Bus-Reservation-System.git)
 cd bus-management-system
 npm install
 npm start
